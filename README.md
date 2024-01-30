@@ -4,5 +4,5 @@ personal portfolio full stack web app
 # Backend
 sanity
 
-# Fronend
+# Frontend
 react
