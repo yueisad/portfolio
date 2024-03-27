@@ -15,7 +15,9 @@ function SocialMedia() {
             </a>
         </div>
         <div>
-           <FaSpotify /> 
+            <a href="https://open.spotify.com/artist/3BAEcQIYh5RuryfojaY0Pb?si=9AFySbeWQcCacN2un8-a_Q" target="_blank">
+               <FaSpotify/> 
+            </a>
         </div>
     </div>
     )
